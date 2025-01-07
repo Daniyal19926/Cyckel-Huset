@@ -6,7 +6,7 @@ export default function App() {
       <div className="mt-40 flex flex-row">
         <div className=" basis-1/5"></div>
         <div className="  basis-4/5">
-          <p className=" ms-2 text-xl font-bold grid  ">All Products</p>
+          <p className=" ms-2 text-xl font-bold">All Products</p>
           <ProductList />
         </div>
       </div>
